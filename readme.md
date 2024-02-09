@@ -2,6 +2,11 @@
 
 Este es un proyecto básico que utiliza Mongoose para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en una base de datos MongoDB. 
 
+El objetivo es que aprendas a seguir un paso a paso.
+
+NO copies y pegues el código. Haz cada paso entendiéndolo y sabiendo que hace cada parte del código.
+Usa internet para encontrar respuestas si algo no funciona o tienes alguna duda referente.
+
 ## Índice
 
 - [Paso 0: Crear una base de datos en Mongo Atlas](#paso-0-crear-una-base-de-datos-en-mongo-atlas)
